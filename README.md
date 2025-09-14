@@ -1,2 +1,32 @@
-# annu-projects-
-“Showcasing my coding projects, assignments, and portfolio demonstrations.”
+
+# Annu — Projects & Goals
+
+## About me
+- Student at VIT Chennai. Ambition: MIT (MS/Exchange), then work in the USA.
+- Focus areas: Python, MATLAB, data visualization, applied projects.
+- Current priorities: build portfolio, strengthen academics, consistent learning.
+
+## Short-term goals
+- Learn Python data structures and solve coding problems weekly.
+- Build 2 small projects this semester and upload code.
+- Keep progress documented here.
+
+## Project ideas (start with one)
+1. **CLI To-Do App (Python)**  
+   - Features: add/remove tasks, save to file, basic search.  
+   - Why: practice Python basics & I/O.
+
+2. **Personal Portfolio Website**  
+   - Simple HTML/CSS page with links to GitHub + resume.  
+   - Why: easy way to showcase work.
+
+3. **Mini Data Viz (Python + Matplotlib)**  
+   - Pick a small CSV (college dataset / covid / movie data).  
+   - Plot 2 charts and write short analysis in README.
+
+## Current status
+- Completed: ✔️ GitHub repo created
+- Next action: pick project #1 and push the first file.
+
+## Contact / Notes
+- Daily schedule: 5:00am wake, coding block 8–12, gym, study.
